@@ -1,0 +1,263 @@
+
+{
+    "movies": [
+    {
+      "id": 1,
+      "title": "School 2017",
+      "category": ["School", "Drama"],
+      "year": 2017,
+      "description": "A drama about the struggles of high school students as they navigate friendships, dreams, and the pressures of education.",
+      "video_url": "https://www.youtube.com/watch?v=3NszaySdxaQ&pp=ygUTc2Nob29sIDIwMTcgZW5nIHN1Yg%3D%3",
+      "image_url": "https://occ-0-6275-6126.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABauaf_pjBXX9G_dl-IYBIWLYWexsTpaSGU0ulKaCMLmsn_ew6nmLGev9nFJJ7bRDMaKAGE0G2Egdgy30VgHbVI7c0-IeOxmMp5j-0AoMIuToZbPzDmGzCQjZIN_OLvtEARjE.jpg?r=3e4,",
+      "trending":true,
+      "popular": false
+    },
+    {
+      "id": 2,
+      "title": "Boys Over Flowers",
+      "category": ["School", "Romance", "Drama"],
+      "year": 2009,
+      "description": "A high school girl navigates the world of the rich and popular at an elite school while dealing with her feelings for a rebellious young man.",
+      "video_url": "https://www.youtube.com/watch?v=QEBIPc7F_fg&list=PL4P2R4oDI2xLr7T1hfWOjmLHIRSdJAeO",
+      "image_url": "https://occ-0-6275-6126.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQDpT6t8mS6Bent2_DvrUxLtm_sov8E2N7qazbGw6iISJLJh1LnGOJKOzi6fY5gxCqzu8tmDIKZ3I3Po5e6jKRYjIC2N1Ahs76BHqWgeTUV-3JNMvKwq1KfxjoW3E48X3LZe.jpg?r=44c",
+      "trending": false,
+      "popular": true
+    },
+    {
+      "id": 3,
+      "title": "Love Alarm",
+      "category": ["School", "Romance", "Drama"],
+      "year": 2019,
+      "description": "A young woman navigates love and relationships in a society where an app alerts people when someone nearby has romantic feelings for them.",
+      "video_url": "https://www.youtube.com/watch?v=fcUGFCIQDgI&list=PLCEcDpqUmmblqwrl-OhVnfvXrMHOAIxuw",
+      "image_url": "https://occ-0-6275-6126.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRW0np1sW6kxCQn1jj_8_yOMZFxd6SRTX6KdmaRs35JPQyRktIGfq6zqYhgTYZUcltMv5fLfXWi0wyCGI533k6uNxwjju6hG1ZY.jpg?r=302",
+      "trending": true,
+      "popular": true
+    },
+    {
+      "id": 4,
+      "title": "True Beauty",
+      "category": ["School", "Romance", "Comedy"],
+      "year": 2020,
+      "description": "A high school girl, who was bullied for her appearance, becomes a beauty after learning makeup, only to face new challenges in her relationships.",
+      "video_url": "https://www.youtube.com/watch?v=VxtxbGhdujU&list=PLWxGxN5LqfHr6Wtw4wyEduc1HZeuahmnT",
+      "image_url": "https://occ-0-6275-6126.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWJrYB_PTHdpNMIwBeszzs4d5Qe4GyIlXOoyQhA0pvhLkYUk-yDw2s94PwpKEAAHshonNEXTwLnW9hVHJPEgN-1r2aGO-ZHN4qXPnOhkSI7_oOeLSxNLzEtkZNqd3os0qI_P.jpg?r=141",
+      "trending": false,
+      "popular": true
+    },
+    {
+      "id": 5,
+      "title": "Cheer Up!",
+      "category": ["School", "Drama", "Sports"],
+      "year": 2022,
+      "description": "A high school cheerleading team faces challenges as they compete in a national championship, all while dealing with personal struggles.",
+      "video_url": "https://www.youtube.com/watch?v=ZgzwVkpIBeg&list=PLXesES52omM2PcOIrnq1nnLn-kh9c3B5F",
+      "image_url": "https://occ-0-6275-6126.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcg9TuSaELytTMpfLNBbxPokSI47FYpoWXi2vbAvluwsIXZAQ_M2mBc6BoAfjahHiZGrJzGmCwBxfwNG_JYhQZ7Q5O_5UjdousyT7iLkqOFlzgNy1L2hZNDEeYKXfYw-GOw9.jpg?r=b69",
+      "trending": true,
+      "popular": true
+    },
+    {
+      "id": 6,
+      "title": "Weightlifting Fairy Kim Bok-joo",
+      "category": ["School", "Romance", "Comedy"],
+      "year": 2016,
+      "description": "A young weightlifter in college deals with love, friendship, and personal growth while pursuing her athletic dreams.",
+      "video_url": "https://www.youtube.com/watch?v=4feoX5O27oM&list=PLmZkKXbemqMqjm_MjYnDvt3nvjUjdMcPk",
+      "image_url": "https://occ-0-6275-6126.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdxN36ttYwRQ2x5Gd4Vf8-kZZPwvMCRS0-dvt8BDlxSa3Fr3jfZVJ96CP-or5s67yFfK9Gq8Csmf5y8DtrXrGFkGH7JAif9HORfsvZUSI3yK-TL54cg3hK9Pb67utRRr04Wa.jpg?r=2b0",
+      "trending": false,
+      "popular": true
+    },
+    {
+      "id": 7,
+      "title": "A River Runs Through It",
+      "category": ["School", "Romance", "Drama"],
+      "year": 2020,
+      "description": "A story of love, growth, and challenges set against the backdrop of a river and the students' journey through school and life.",
+      "video_url": "https://www.youtube.com/watch?v=lNw3r-FkVbY&list=PL6xVgUZ4UP2N2qBm566kvXQfnfIsO-Q7-",
+      "image_url": "https://occ-0-6275-6126.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdOdSuAwEvu_jZKZr4g_GHiP3YpfGSkqDi5yisAEpNVwAv-raxL1fcezQZn4aEu7ixtzlsbRg2GlY2_dkqo9QJyaJgz0Qkr1tH76wgOK9ulsSgZDe_QhgqxBTPeTJgIRGGSI.jpg?r=d40",
+      "trending": true,
+      "popular": true
+    },
+    {
+      "id": 8,
+      "title": "First Love",
+      "category": ["School", "Romance", "Drama"],
+      "year": 2020,
+      "description": "A beautiful love story about a shy high school girl and a popular boy who experience the ups and downs of first love.",
+      "video_url": "https://www.youtube.com/watch?v=keiCO97XF_Q&list=PLyT8L9yeLXCRP-t-dco6SJfTS0cNoaQuX",
+      "image_url": "https://occ-0-6275-6126.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSitjBhxTkmKXKaLTESIa5iQ58nAyggjQUOYupjSwRe4gUR-_YAITsOHD6tTTZNuBfh0ssBesZYcvf9X7kTOjYj9LklBcD2gEr8rFmNxUtSBec4jGBl4Faf5hCl09TqioZr0.jpg?r=c8b",
+      "trending": false,
+      "popular": true
+    }
+  ],
+    "kdrama":[
+      {
+        "id": 7,
+        "title": "School 2017",
+        "category": ["School", "Drama"],
+        "year": 2017,
+        "description": "A drama about the struggles of high school students as they navigate friendships, dreams, and the pressures of education.",
+
+        "video_url": "https://www.youtube.com/watch?v=3NszaySdxaQ&pp=ygUTc2Nob29sIDIwMTcgZW5nIHN1Yg%3D%3"
+      },
+      {
+        "id": 8,
+        "title": "Boys Over Flowers",
+        "category": ["School", "Romance", "Drama"],
+        "year": 2009,
+        "description": "A high school girl navigates the world of the rich and popular at an elite school while dealing with her feelings for a rebellious young man.",
+
+        "video_url": "https://www.youtube.com/watch?v=QEBIPc7F_fg&list=PL4P2R4oDI2xLr7T1hfWOjmLHIRSdJAeO"
+      },
+      {
+        "id": 9,
+        "title": "Love Alarm",
+        "category": ["School", "Romance", "Drama"],
+        "year": 2019,
+        "description": "A young woman navigates love and relationships in a society where an app alerts people when someone nearby has romantic feelings for them.",
+
+        "video_url": "https://www.youtube.com/watch?v=fcUGFCIQDgI&list=PLCEcDpqUmmblqwrl-OhVnfvXrMHOAIxuw"
+      },
+      {
+        "id": 10,
+        "title": "True Beauty",
+        "category": ["School", "Romance", "Comedy"],
+        "year": 2020,
+        "description": "A high school girl, who was bullied for her appearance, becomes a beauty after learning makeup, only to face new challenges in her relationships.",
+
+        "video_url": "https://www.youtube.com/watch?v=VxtxbGhdujU&list=PLWxGxN5LqfHr6Wtw4wyEduc1HZeuahmnT"
+      },
+      {
+        "id": 11,
+        "title": "Cheer Up!",
+        "category": ["School", "Drama", "Sports"],
+        "year": 2022,
+        "description": "A high school cheerleading team faces challenges as they compete in a national championship, all while dealing with personal struggles.",
+
+        "video_url": "https://www.youtube.com/watch?v=ZgzwVkpIBeg&list=PLXesES52omM2PcOIrnq1nnLn-kh9c3B5F"
+      },
+      {
+        "id": 12,
+        "title": "Weightlifting Fairy Kim Bok-joo",
+        "category": ["School", "Romance", "Comedy"],
+        "year": 2016,
+        "description": "A young weightlifter in college deals with love, friendship, and personal growth while pursuing her athletic dreams.",
+
+        "video_url": "https://www.youtube.com/watch?v=4feoX5O27oM&list=PLmZkKXbemqMqjm_MjYnDvt3nvjUjdMcPk"
+      }
+    ],
+    "thai_movies":[ 
+      {
+        "id": 13,
+        "title": "Playful Kiss",
+        "category": ["School", "Romance", "Comedy"],
+        "year": 2010,
+        "description": "A clumsy but determined high school girl becomes involved with the most popular and genius student at her school in a comedic love story.",
+
+        "video_url": "https://www.youtube.com/watch?v=8Ru1kE0-lSc&list=PLfJXchkX7riUL-0RtAl5yTxBDl0f49TWQ"
+      },
+      {
+        "id": 14,
+        "title": "SOTUS: The Series",
+        "category": ["School", "Romance", "Drama"],
+        "year": 2016,
+        "description": "A story about a freshman and a senior at a university who find themselves involved in a developing romance despite the senior’s strict mentoring ways.",
+
+        "video_url": "https://www.youtube.com/watch?v=TWRpfNqQHHg&list=PLMcISFepDTsGw1Cq9WTOf8NOz2gesu25n"
+      },
+      {
+        "id": 15,
+        "title": "Home school ",
+        "category": ["School", "Romance", "Drama"],
+        "year": 2019,
+        "description": "A story about two college students, one straight and one gay, who are forced to live together as roommates and find themselves at odds, yet eventually developing feelings for each other.",
+
+        "video_url": "https://www.youtube.com/watch?v=JrkJHCCyjlw&list=PLiZut8Wi_wARPm7jcMgFZIRuFPhC-Wpkz"
+      },
+      {
+        "id": 16,
+        "title": " The Gifted",
+        "category": ["School", "Romance", "Comedy"],
+        "year": 2020,
+        "description": "A lighthearted romance about a college student who pretends to be in a relationship with a popular and attractive senior in order to ward off his persistent admirer.",
+
+        "video_url": "https://www.youtube.com/watch?v=fwNfV6A1jn8&list=PL_AL-uXFkd-WSUJ1iiY1YAZi1SUzJAkz9"
+      },
+      {
+        "id": 17,
+        "title": "who are you",
+        "category": ["School", "Romance", "Drama"],
+        "year": 2021,
+        "description": "A drama about two college boys from rival families who have been at odds since childhood but unexpectedly find themselves in a relationship despite their differences.",
+
+        "video_url": "https://www.youtube.com/watch?v=gbFUwMxYqkk&list=PLCOabRFsj9tQsDTP9IAgFzmcB6MaTEdZ5"
+      },
+      {
+        "id": 18,
+        "title": "summer break",
+        "category": ["School", "Romance", "Drama"],
+        "year": 2018,
+        "description": "A shy college student gets involved with a popular senior after an accident brings them together, leading to a complicated but heartfelt romance.",
+
+        "video_url": "https://www.youtube.com/watch?v=ju3qjueo55Y&list=PLiZut8Wi_wASgQsBTQ2GjN6ZyENdQBqMg"
+      }
+    ],
+    "cdrama":[
+      {
+        "id": 1,
+        "title": "When I Fly Towards You",
+        "category": ["School", "Romance", "Drama"],
+        "year": 2023,
+        "description": "A heartwarming story of two high school students who find love and face challenges while growing up and learning about themselves.",
+
+    "video_url": "https://youtu.be/juqpXP34V48?feature=shared"
+  },
+  {
+    "id": 2,
+    "title": "A River Runs Through It",
+    "category": ["School", "Romance", "Drama"],
+    "year": 2020,
+    "description": "A story of love, growth, and challenges set against the backdrop of a river and the students' journey through school and life.",
+
+    "video_url": "https://www.youtube.com/watch?v=lNw3r-FkVbY&list=PL6xVgUZ4UP2N2qBm566kvXQfnfIsO-Q7-"
+  },
+  {
+    "id": 3,
+    "title": "First Love",
+    "category": ["School", "Romance", "Drama"],
+    "year": 2020,
+    "description": "A beautiful love story about a shy high school girl and a popular boy who experience the ups and downs of first love.",
+
+    "video_url": "https://www.youtube.com/watch?v=keiCO97XF_Q&list=PLyT8L9yeLXCRP-t-dco6SJfTS0cNoaQuX"
+  },
+  {
+    "id": 4,
+    "title": "Go Ahead",
+    "category": ["School", "Family", "Drama"],
+    "year": 2020,
+    "description": "Three young people from broken families find solace in each other, navigating their way through adolescence and personal struggles.",
+
+    "video_url": "https://www.youtube.com/watch?v=6M6Mgksix1o&list=PLiL-CuIBxVwMz9Zk9tUc2Q_lFUL_nBS8y"
+  },
+  {
+    "id": 5,
+    "title": "Skate Into Love",
+    "category": ["School", "Romance", "Sports"],
+    "year": 2020,
+    "description": "A passionate romance between a talented figure skater and a college student who excels in ice hockey, bringing them closer despite their differences.",
+
+    "video_url": "https://www.youtube.com/watch?v=haK5hXPSxac&list=PLvpAVnYN4lb1siNWRMUwLIaIf9OMSEZqk"
+  },
+
+  {
+    "id": 6,
+    "title": "Lovely Us",
+    "category": ["School", "Romance", "Comedy"],
+    "year": 2020,
+    "description": "A sweet romantic comedy about two high school students who discover their feelings for each other as they go through the ups and downs of teenage life.",
+
+    "video_url": "https://www.youtube.com/watch?v=WZrKGzVvZSI&list=PLS0g4Wm9xDBJn6Lro-FLtTcM_oL7vu4g3"
+  }
+    ]
+   
+}
