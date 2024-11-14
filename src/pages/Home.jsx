@@ -18,7 +18,7 @@ function Home({ searchQuery }) {
 
   // Fetch Chinese dramas
   useEffect(() => {
-    fetch('http://localhost:3000/cdrama')
+    fetch('https://json-server-movies-oy4o.onrender.com/cdrama')
       .then((response) => response.json())
       .then((data) => {
         setChineseDramas(data);
@@ -31,7 +31,7 @@ function Home({ searchQuery }) {
 
   // Fetch Korean dramas
   useEffect(() => {
-    fetch('http://localhost:3000/kdrama')
+    fetch('https://json-server-movies-oy4o.onrender.com/kdrama')
       .then((response) => response.json())
       .then((data) => setKoreanDramas(data))
       .catch((error) => console.log("Error fetching Korean dramas:", error));
@@ -39,7 +39,7 @@ function Home({ searchQuery }) {
 
   // Fetch Thailand dramas
   useEffect(() => {
-    fetch('http://localhost:3000/thai_movies')
+    fetch('https://json-server-movies-oy4o.onrender.com/thai_movies')
       .then((response) => response.json())
       .then((data) => setThailandDramas(data))
       .catch((error) => console.log("Error fetching Thailand dramas:", error));
