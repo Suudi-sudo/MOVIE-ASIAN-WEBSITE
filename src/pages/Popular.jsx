@@ -9,7 +9,7 @@ const PopularMovies = () => {
   useEffect(() => {
     const fetchPopularMovies = async () => {
       try {
-        const response = await fetch("http://localhost:3000/movies");
+        const response = await fetch("https://json-server-movies-oy4o.onrender.com/movies");
         if (!response.ok) throw new Error("Failed to fetch movies.");
         
         const movies = await response.json();
