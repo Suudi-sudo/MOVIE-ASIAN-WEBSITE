@@ -18,8 +18,8 @@ Asian Movie Web is a React-based frontend application that showcases a curated s
    ## Live Demo
 
     You can view the deployed app using the following links:
-	•	Render: https://baraza.moringaschool.com/morgina-classroom/pl/68eeune8a3dnfpw5xokc4bzuow
-	•	Vercel: https://movie-asian-website.vercel.app/
+	Render: https://baraza.moringaschool.com/morgina-classroom/pl/68eeune8a3dnfpw5xokc4bzuow
+	Vercel: https://movie-asian-website.vercel.app/
 
 ## Setup and Installation
 
