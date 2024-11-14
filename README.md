@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+## Asian Movie Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+Asian Movie Web is a React-based frontend application that showcases a curated selection of Asian dramas and movies, specifically categorized by genres like Chinese, Korean, and Thai dramas. This app provides users with an interactive experience to browse, view, and manage movie data through CRUD operations, inspired by popular streaming platforms.
 
-In the project directory, you can run:
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+	•	Responsive Layout: Designed for optimal viewing on different screen sizes.
+	•	Navigation Between Pages: Users can browse through Trending, Popular, and All Drama pages using React Router.
+	•	Search Functionality: A search bar allows users to quickly find specific titles within the app.
+	•	Featured Movie Player: A main display area shows the selected movie, with details like category, description, and release year. Users can start watching        directly from Episode 1.
+	•	CRUD Operations: Users can add, edit, view, and delete movie entries to maintain the catalog.
+	•	User-Friendly Design: Based on a structured Figma design for a polished UI that mimics popular Asian streaming services.
+	•	Footer Links: Includes social media links for further engagement, like Instagram and YouTube.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   ## Live Demo
 
-### `npm test`
+    You can view the deployed app using the following links:
+	•	Render: https://baraza.moringaschool.com/morgina-classroom/pl/68eeune8a3dnfpw5xokc4bzuow
+	•	Vercel: https://movie-asian-website.vercel.app/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Setup and Installation
 
-### `npm run build`
+1.	Clone the repository:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    git clone : https://github.com/Suudi-sudo/MOVIE-ASIAN-WEBSITE.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2.	Navigate into the project directory:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   cd asian-movie-web
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+	3.	Install dependencies:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    npm install
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+	4.	Run the app:
 
-## Learn More
+    npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+	5.	Start the JSON server to serve movie data from db.json:
 
-### Code Splitting
+     npx json-server --watch db.json --port 3001
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+	6.	Open your browser and go to http://localhost:3000 to view the app.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Deployed Version
 
-### Making a Progressive Web App
+Simply visit the links in the Live Demo section to access the app online.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+##  Usage
 
-### Advanced Configuration
+	•	Browse Categories: Use the top navigation bar to switch between Trending, Popular, and All Drama sections.
+	•	Search Functionality: Use the search bar to find specific titles across all categories.
+	•	Play Movies: Click on a movie thumbnail to play it in the main display area. The movie’s details, such as genre, description, and release year, appear below the player.
+	•	Manage Movies: Add new movies, edit details of existing movies, or delete entries through the app’s CRUD functionality.
+	•	Featured Movie Display: Clicking a movie from any category displays it in the main featured section, complete with description and episode options.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Technologies Used
 
-### Deployment
+	•	React: For building the user interface.
+	•	React Router: For handling navigation between different sections of the app.
+	•	JSON Server: Used to create a simple backend to serve movie data from db.json.
+	•	HTML & CSS: For structuring and styling the app interface.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
